@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import items from "../../src/data"
-import Client from "../../src/Contentful";
+// import Client from "../../src/Contentful";
 
 const RoomContext = React.createContext();
 
