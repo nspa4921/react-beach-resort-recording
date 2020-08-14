@@ -512,3 +512,10 @@ h6 {
   }
 }
 /* end of rooms fitler*/
+
+ /* footer */
+
+ .footer-container{
+   margin: 20px;
+   padding:20px;
+ }
